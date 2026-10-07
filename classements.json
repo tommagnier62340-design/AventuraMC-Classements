@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "genere_le": "2026-10-07T16:38:44.888735542+02:00",
+  "genere_ts": 1791383924888,
+  "serveur": {
+    "nom": "Aventura MC",
+    "ip_java": "aventura-mc.mineon.fr",
+    "ip_bedrock": "aventura-mc.mineon.fr",
+    "port_bedrock": 49868,
+    "joueurs_en_ligne": 1,
+    "joueurs_max": 50
+  },
+  "classements": [
+    {
+      "id": "skyblock_iles_general",
+      "mode": "skyblock",
+      "titre": "Classement général des îles",
+      "description": "Valeur cumulée des îles",
+      "unite": "valeur",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 25976.0
+        },
+        {
+          "rang": 2,
+          "nom": "thibaudxp5",
+          "valeur": 5448.0
+        }
+      ]
+    },
+    {
+      "id": "skyblock_iles_jour",
+      "mode": "skyblock",
+      "titre": "Classement journalier des îles",
+      "description": "Gain de valeur depuis le dernier reset (minuit, Europe/Paris)",
+      "unite": "valeur",
+      "entrees": []
+    },
+    {
+      "id": "skyblock_iles_mois",
+      "mode": "skyblock",
+      "titre": "Classement mensuel des îles",
+      "description": "Gain de valeur depuis le début du mois",
+      "unite": "valeur",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 22549.0
+        },
+        {
+          "rang": 2,
+          "nom": "thibaudxp5",
+          "valeur": 8663
+        }
+      ]
+    },
+    {
+      "id": "survie_metiers",
+      "mode": "survie",
+      "titre": "Top métiers",
+      "description": "Niveau de métier cumulé",
+      "unite": "niveaux",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 101
+        },
+        {
+          "rang": 2,
+          "nom": ".TiTiattias",
+          "valeur": 74
+        },
+        {
+          "rang": 3,
+          "nom": "thibaudxp5",
+          "valeur": 34
+        },
+        {
+          "rang": 4,
+          "nom": "Diabomax59",
+          "valeur": 33
+        },
+        {
+          "rang": 5,
+          "nom": "qui1raph",
+          "valeur": 32
+        },
+        {
+          "rang": 6,
+          "nom": "Max3nce2",
+          "valeur": 30
+        },
+        {
+          "rang": 7,
+          "nom": ".maxencemagnier",
+          "valeur": 9
+        },
+        {
+          "rang": 8,
+          "nom": "Hades6034",
+          "valeur": 7
+        },
+        {
+          "rang": 9,
+          "nom": "Linvily",
+          "valeur": 7
+        },
+        {
+          "rang": 10,
+          "nom": ".Darkkiller14787",
+          "valeur": 4
+        }
+      ]
+    },
+    {
+      "id": "survie_temps_de_jeu",
+      "mode": "survie",
+      "titre": "Temps de jeu",
+      "description": "Les joueurs les plus présents",
+      "unite": "secondes",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Max3nce2",
+          "valeur": 754020
+        },
+        {
+          "rang": 2,
+          "nom": ".TiTiattias",
+          "valeur": 105420
+        },
+        {
+          "rang": 3,
+          "nom": ".maxencemagnier",
+          "valeur": 103980
+        },
+        {
+          "rang": 4,
+          "nom": "Diabomax59",
+          "valeur": 51180
+        },
+        {
+          "rang": 5,
+          "nom": "nyxAngelSw3et",
+          "valeur": 35520
+        },
+        {
+          "rang": 6,
+          "nom": "Sh1dox",
+          "valeur": 34260
+        },
+        {
+          "rang": 7,
+          "nom": "E33U",
+          "valeur": 34080
+        },
+        {
+          "rang": 8,
+          "nom": "QuirrelPL",
+          "valeur": 31140
+        },
+        {
+          "rang": 9,
+          "nom": "1clowder",
+          "valeur": 29820
+        },
+        {
+          "rang": 10,
+          "nom": "ShoddyPage75049",
+          "valeur": 29820
+        }
+      ]
+    },
+    {
+      "id": "survie_lucky_blocks",
+      "mode": "survie",
+      "titre": "Lucky blocks",
+      "description": "Lucky blocks ouverts",
+      "unite": "ouverts",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 21
+        },
+        {
+          "rang": 2,
+          "nom": ".TiTiattias",
+          "valeur": 12
+        },
+        {
+          "rang": 3,
+          "nom": "Max3nce2",
+          "valeur": 10
+        },
+        {
+          "rang": 4,
+          "nom": "Diabomax59",
+          "valeur": 3
+        },
+        {
+          "rang": 5,
+          "nom": ".maxencemagnier",
+          "valeur": 1
+        },
+        {
+          "rang": 6,
+          "nom": "thibaudxp5",
+          "valeur": 1
+        }
+      ]
+    },
+    {
+      "id": "survie_cles",
+      "mode": "survie",
+      "titre": "Clés ouvertes",
+      "description": "Clés de crates ouvertes",
+      "unite": "clés",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 540
+        },
+        {
+          "rang": 2,
+          "nom": "qui1raph",
+          "valeur": 30
+        },
+        {
+          "rang": 3,
+          "nom": "Max3nce2",
+          "valeur": 27
+        },
+        {
+          "rang": 4,
+          "nom": "Hades6034",
+          "valeur": 1
+        }
+      ]
+    },
+    {
+      "id": "survie_donjons",
+      "mode": "survie",
+      "titre": "Donjons gagnés",
+      "description": "Donjons terminés avec succès",
+      "unite": "donjons",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Max3nce2",
+          "valeur": 1
+        }
+      ]
+    },
+    {
+      "id": "survie_mine_blocs",
+      "mode": "survie",
+      "titre": "Roi de la mine",
+      "description": "Blocs cassés dans la Mine des Légendes",
+      "unite": "blocs",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 14372
+        }
+      ]
+    },
+    {
+      "id": "survie_mine_rares",
+      "mode": "survie",
+      "titre": "Chasseur de rares",
+      "description": "Abyssite et Aventurite extraites",
+      "unite": "minerais",
+      "entrees": []
+    },
+    {
+      "id": "survie_mine_record",
+      "mode": "survie",
+      "titre": "Record du cycle",
+      "description": "Blocs minés en une seule régénération de la mine",
+      "unite": "blocs",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 4240
+        }
+      ]
+    },
+    {
+      "id": "survie_mine_fortune",
+      "mode": "survie",
+      "titre": "Fortune extraite",
+      "description": "Valeur des minerais sortis de la mine",
+      "unite": "valeur",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 3135
+        }
+      ]
+    },
+    {
+      "id": "survie_factions",
+      "mode": "survie",
+      "titre": "Top factions",
+      "description": "Niveau de faction",
+      "unite": "niveau",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Angel",
+          "valeur": 1
+        }
+      ]
+    }
+  ]
+}
