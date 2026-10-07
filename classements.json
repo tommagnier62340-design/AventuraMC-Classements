@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-07T16:48:53.184204144+02:00",
-  "genere_ts": 1791384533184,
+  "genere_le": "2026-10-07T16:56:42.173033926+02:00",
+  "genere_ts": 1791385002173,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 1,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
@@ -54,6 +54,451 @@
           "rang": 2,
           "nom": "thibaudxp5",
           "valeur": 8663
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metier_mineur",
+      "mode": "skyblock",
+      "titre": "Top mineurs",
+      "description": "XP du métier Mineur (le niveau est indiqué à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 50784,
+          "niveau": 37
+        },
+        {
+          "rang": 2,
+          "nom": "thibaudxp5",
+          "valeur": 15914,
+          "niveau": 27
+        },
+        {
+          "rang": 3,
+          "nom": "Diabomax59",
+          "valeur": 15447,
+          "niveau": 27
+        },
+        {
+          "rang": 4,
+          "nom": ".maxencemagnier",
+          "valeur": 275,
+          "niveau": 3
+        },
+        {
+          "rang": 5,
+          "nom": ".Darkkiller14787",
+          "valeur": 60,
+          "niveau": 1
+        },
+        {
+          "rang": 6,
+          "nom": "Max3nce2",
+          "valeur": 53,
+          "niveau": 1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metier_bucheron",
+      "mode": "skyblock",
+      "titre": "Top bûcherons",
+      "description": "XP du métier Bûcheron (le niveau est indiqué à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 1874,
+          "niveau": 11
+        },
+        {
+          "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 770,
+          "niveau": 6
+        },
+        {
+          "rang": 3,
+          "nom": "Diabomax59",
+          "valeur": 515,
+          "niveau": 5
+        },
+        {
+          "rang": 4,
+          "nom": ".Darkkiller14787",
+          "valeur": 120,
+          "niveau": 2
+        },
+        {
+          "rang": 5,
+          "nom": "thibaudxp5",
+          "valeur": 114,
+          "niveau": 2
+        },
+        {
+          "rang": 6,
+          "nom": "Max3nce2",
+          "valeur": 2,
+          "niveau": 1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metier_pecheur",
+      "mode": "skyblock",
+      "titre": "Top pêcheurs",
+      "description": "XP du métier Pêcheur (le niveau est indiqué à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "thibaudxp5",
+          "valeur": 132,
+          "niveau": 2
+        },
+        {
+          "rang": 2,
+          "nom": ".TiTiattias",
+          "valeur": 112,
+          "niveau": 2
+        },
+        {
+          "rang": 3,
+          "nom": ".maxencemagnier",
+          "valeur": 90,
+          "niveau": 1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metier_fermier",
+      "mode": "skyblock",
+      "titre": "Top fermiers",
+      "description": "XP du métier Fermier (le niveau est indiqué à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 5349,
+          "niveau": 18
+        },
+        {
+          "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 480,
+          "niveau": 5
+        },
+        {
+          "rang": 3,
+          "nom": "Diabomax59",
+          "valeur": 350,
+          "niveau": 4
+        },
+        {
+          "rang": 4,
+          "nom": "Max3nce2",
+          "valeur": 128,
+          "niveau": 2
+        },
+        {
+          "rang": 5,
+          "nom": "thibaudxp5",
+          "valeur": 115,
+          "niveau": 2
+        },
+        {
+          "rang": 6,
+          "nom": ".Darkkiller14787",
+          "valeur": 11,
+          "niveau": 1
+        },
+        {
+          "rang": 7,
+          "nom": "CrackedTO",
+          "valeur": 5,
+          "niveau": 1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metier_chasseur",
+      "mode": "skyblock",
+      "titre": "Top chasseurs",
+      "description": "XP du métier Chasseur (le niveau est indiqué à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 37656,
+          "niveau": 34
+        },
+        {
+          "rang": 2,
+          "nom": "Diabomax59",
+          "valeur": 3805,
+          "niveau": 16
+        },
+        {
+          "rang": 3,
+          "nom": "Max3nce2",
+          "valeur": 586,
+          "niveau": 5
+        },
+        {
+          "rang": 4,
+          "nom": "thibaudxp5",
+          "valeur": 258,
+          "niveau": 3
+        },
+        {
+          "rang": 5,
+          "nom": ".maxencemagnier",
+          "valeur": 57,
+          "niveau": 1
+        },
+        {
+          "rang": 6,
+          "nom": ".Darkkiller14787",
+          "valeur": 15,
+          "niveau": 1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_metiers_total",
+      "mode": "skyblock",
+      "titre": "Top métiers (total)",
+      "description": "XP cumulée des cinq métiers du Skyblock (la somme des niveaux est indiquée à côté)",
+      "unite": "XP",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 95775,
+          "niveau": 102
+        },
+        {
+          "rang": 2,
+          "nom": "Diabomax59",
+          "valeur": 20117,
+          "niveau": 53
+        },
+        {
+          "rang": 3,
+          "nom": "thibaudxp5",
+          "valeur": 16533,
+          "niveau": 36
+        },
+        {
+          "rang": 4,
+          "nom": ".maxencemagnier",
+          "valeur": 1672,
+          "niveau": 16
+        },
+        {
+          "rang": 5,
+          "nom": "Max3nce2",
+          "valeur": 769,
+          "niveau": 10
+        },
+        {
+          "rang": 6,
+          "nom": ".Darkkiller14787",
+          "valeur": 206,
+          "niveau": 6
+        },
+        {
+          "rang": 7,
+          "nom": "CrackedTO",
+          "valeur": 5,
+          "niveau": 5
+        }
+      ]
+    },
+    {
+      "id": "skyblock_richesse",
+      "mode": "skyblock",
+      "titre": "Les plus riches",
+      "description": "SkyCoins détenus",
+      "unite": "SkyCoins",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Max3nce2",
+          "valeur": 1084952523
+        },
+        {
+          "rang": 2,
+          "nom": "TomGamingTV",
+          "valeur": 11631874
+        },
+        {
+          "rang": 3,
+          "nom": ".maxencemagnier",
+          "valeur": 1161932
+        },
+        {
+          "rang": 4,
+          "nom": "nyxAngelSw3et",
+          "valeur": 231146
+        },
+        {
+          "rang": 5,
+          "nom": ".TiTiattias",
+          "valeur": 6748
+        },
+        {
+          "rang": 6,
+          "nom": "thibaudxp5",
+          "valeur": 1445
+        },
+        {
+          "rang": 7,
+          "nom": "Diabomax59",
+          "valeur": 1192
+        },
+        {
+          "rang": 8,
+          "nom": ".Darkkiller14787",
+          "valeur": 100
+        }
+      ]
+    },
+    {
+      "id": "skyblock_iles_niveau",
+      "mode": "skyblock",
+      "titre": "Niveau des îles",
+      "description": "Niveau d'île (SuperiorSkyblock2)",
+      "unite": "niveau",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".TiTiattias",
+          "valeur": 15026
+        },
+        {
+          "rang": 2,
+          "nom": "thibaudxp5",
+          "valeur": 4762
+        },
+        {
+          "rang": 3,
+          "nom": "Diabomax59",
+          "valeur": 1435
+        }
+      ]
+    },
+    {
+      "id": "skyblock_iles_banque",
+      "mode": "skyblock",
+      "titre": "Banques d'île",
+      "description": "SkyCoins en banque",
+      "unite": "SkyCoins",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Diabomax59",
+          "valeur": 1.2
+        },
+        {
+          "rang": 2,
+          "nom": "TomGamingTV",
+          "valeur": 0.9
+        },
+        {
+          "rang": 3,
+          "nom": ".TiTiattias",
+          "valeur": 0.6
+        },
+        {
+          "rang": 4,
+          "nom": ".maxencemagnier",
+          "valeur": 0.4
+        },
+        {
+          "rang": 5,
+          "nom": "nyxAngelSw3et",
+          "valeur": 0.2
+        },
+        {
+          "rang": 6,
+          "nom": "thibaudxp5",
+          "valeur": 0.2
+        },
+        {
+          "rang": 7,
+          "nom": ".Darkkiller14787",
+          "valeur": 0.1
+        },
+        {
+          "rang": 8,
+          "nom": "CrackedTO",
+          "valeur": 0.1
+        },
+        {
+          "rang": 9,
+          "nom": "Maklishh",
+          "valeur": 0.1
+        }
+      ]
+    },
+    {
+      "id": "skyblock_iles_membres",
+      "mode": "skyblock",
+      "titre": "Îles les plus peuplées",
+      "description": "Nombre de membres (chef compris)",
+      "unite": "membres",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": ".maxencemagnier",
+          "valeur": 2
+        },
+        {
+          "rang": 2,
+          "nom": ".Darkkiller14787",
+          "valeur": 1
+        },
+        {
+          "rang": 3,
+          "nom": ".TiTiattias",
+          "valeur": 1
+        },
+        {
+          "rang": 4,
+          "nom": "CrackedTO",
+          "valeur": 1
+        },
+        {
+          "rang": 5,
+          "nom": "Diabomax59",
+          "valeur": 1
+        },
+        {
+          "rang": 6,
+          "nom": "Maklishh",
+          "valeur": 1
+        },
+        {
+          "rang": 7,
+          "nom": "nyxAngelSw3et",
+          "valeur": 1
+        },
+        {
+          "rang": 8,
+          "nom": "thibaudxp5",
+          "valeur": 1
+        },
+        {
+          "rang": 9,
+          "nom": "TomGamingTV",
+          "valeur": 1
         }
       ]
     },
@@ -126,7 +571,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 754680
+          "valeur": 755100
         },
         {
           "rang": 2,
@@ -320,6 +765,182 @@
           "valeur": 1
         }
       ]
+    },
+    {
+      "id": "votes_jour",
+      "mode": "votes",
+      "titre": "Votes du jour",
+      "description": "Votes validés aujourd'hui (remise à zéro à minuit, Europe/Paris)",
+      "unite": "votes",
+      "entrees": []
+    },
+    {
+      "id": "votes_semaine",
+      "mode": "votes",
+      "titre": "Votes de la semaine",
+      "description": "Votes validés cette semaine (remise à zéro le lundi à minuit)",
+      "unite": "votes",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Max3nce2",
+          "valeur": 2
+        }
+      ]
+    },
+    {
+      "id": "votes_mois",
+      "mode": "votes",
+      "titre": "Votes du mois",
+      "description": "Votes validés ce mois-ci",
+      "unite": "votes",
+      "entrees": []
+    },
+    {
+      "id": "votes_total",
+      "mode": "votes",
+      "titre": "Votes au total",
+      "description": "Votes validés depuis le début du suivi (2026-10-07)",
+      "unite": "votes",
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "Max3nce2",
+          "valeur": 2
+        }
+      ]
     }
-  ]
+  ],
+  "votes": {
+    "depuis": "2026-10-07",
+    "aujourdhui": 0,
+    "par_jour": [
+      {
+        "date": "2026-09-08",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-09",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-10",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-11",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-12",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-13",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-14",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-15",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-16",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-17",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-18",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-19",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-20",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-21",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-22",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-23",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-24",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-25",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-26",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-27",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-28",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-29",
+        "votes": 0
+      },
+      {
+        "date": "2026-09-30",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-01",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-02",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-03",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-04",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-05",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-06",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-07",
+        "votes": 0
+      }
+    ]
+  },
+  "stats": {
+    "iles": 9,
+    "joueurs_avec_metier": 7,
+    "skycoins_en_circulation": 1097986960,
+    "votes_total": 2
+  }
 }
