@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-07T22:13:36.184785515+02:00",
-  "genere_ts": 1791404016184,
+  "genere_le": "2026-10-07T22:29:35.644943976+02:00",
+  "genere_ts": 1791404975644,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 0,
+    "joueurs_en_ligne": 2,
     "joueurs_max": 50
   },
   "classements": [
@@ -1089,7 +1089,15 @@
       "titre": "Votes du jour",
       "description": "Votes validés aujourd'hui (remise à zéro à minuit, Europe/Paris)",
       "unite": "votes",
-      "entrees": []
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "TomGamingTV",
+          "valeur": 1,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
+        }
+      ]
     },
     {
       "id": "votes_semaine",
@@ -1104,6 +1112,13 @@
           "valeur": 2,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 2,
+          "nom": "TomGamingTV",
+          "valeur": 1,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         }
       ]
     },
@@ -1113,7 +1128,15 @@
       "titre": "Votes du mois",
       "description": "Votes validés ce mois-ci",
       "unite": "votes",
-      "entrees": []
+      "entrees": [
+        {
+          "rang": 1,
+          "nom": "TomGamingTV",
+          "valeur": 1,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
+        }
+      ]
     },
     {
       "id": "votes_total",
@@ -1128,13 +1151,20 @@
           "valeur": 2,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 2,
+          "nom": "TomGamingTV",
+          "valeur": 1,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         }
       ]
     }
   ],
   "votes": {
     "depuis": "2026-10-07",
-    "aujourdhui": 0,
+    "aujourdhui": 1,
     "par_jour": [
       {
         "date": "2026-09-08",
@@ -1254,7 +1284,7 @@
       },
       {
         "date": "2026-10-07",
-        "votes": 0
+        "votes": 1
       }
     ]
   },
@@ -1262,6 +1292,6 @@
     "iles": 9,
     "joueurs_avec_metier": 7,
     "skycoins_en_circulation": 1097986960,
-    "votes_total": 2
+    "votes_total": 3
   }
 }
