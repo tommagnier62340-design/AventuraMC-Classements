@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-07T20:08:33.371893988+02:00",
-  "genere_ts": 1791396513371,
+  "genere_le": "2026-10-07T20:18:33.371738823+02:00",
+  "genere_ts": 1791397113371,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -722,7 +722,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 766500,
+          "valeur": 767100,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -858,17 +858,17 @@
         },
         {
           "rang": 2,
+          "nom": "Max3nce2",
+          "valeur": 35,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 3,
           "nom": "qui1raph",
           "valeur": 30,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/cbfa0a54f3474126acfa15d8ca018c58/64"
-        },
-        {
-          "rang": 3,
-          "nom": "Max3nce2",
-          "valeur": 27,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
         {
           "rang": 4,
