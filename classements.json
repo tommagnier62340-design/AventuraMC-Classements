@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-07T22:43:35.647356339+02:00",
-  "genere_ts": 1791405815647,
+  "genere_le": "2026-10-07T22:53:35.646885832+02:00",
+  "genere_ts": 1791406415646,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -27,27 +27,34 @@
         },
         {
           "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 11998.0,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 3,
           "nom": "thibaudxp5",
           "valeur": 9524.0,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 3,
+          "rang": 4,
           "nom": "Diabomax59",
           "valeur": 2870.0,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/74e33d489bab4e8fa47067035702ec30/64"
         },
         {
-          "rang": 4,
+          "rang": 5,
           "nom": "nyxAngelSw3et",
           "valeur": 0.0,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
         {
-          "rang": 5,
+          "rang": 6,
           "nom": "Maklishh",
           "valeur": 0.0,
           "plateforme": "java",
@@ -64,65 +71,65 @@
       "entrees": [
         {
           "rang": 1,
+          "nom": ".maxencemagnier",
+          "valeur": 13715,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 2,
           "nom": ".Darkkiller14787",
           "valeur": 4076,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
         },
         {
-          "rang": 2,
+          "rang": 3,
           "nom": ".TiTiattias",
           "valeur": 4076,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/923d2e290b95585d5b1db7a2b4b67fadaa3be0a0d540c3cd87e89441015f3d6c/64"
         },
         {
-          "rang": 3,
+          "rang": 4,
           "nom": "CrackedTO",
           "valeur": 4076,
           "plateforme": "java"
         },
         {
-          "rang": 4,
+          "rang": 5,
           "nom": "Diabomax59",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/74e33d489bab4e8fa47067035702ec30/64"
         },
         {
-          "rang": 5,
+          "rang": 6,
           "nom": "Maklishh",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/23996c89b1fb4e8eaf89ca080d128327/64"
         },
         {
-          "rang": 6,
+          "rang": 7,
           "nom": "thibaudxp5",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 7,
+          "rang": 8,
           "nom": "TomGamingTV",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         },
         {
-          "rang": 8,
+          "rang": 9,
           "nom": "nyxAngelSw3et",
           "valeur": 1396,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
-        },
-        {
-          "rang": 9,
-          "nom": ".maxencemagnier",
-          "valeur": 319,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         }
       ]
     },
@@ -142,40 +149,47 @@
         },
         {
           "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 12929.0,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 3,
           "nom": "thibaudxp5",
           "valeur": 12739,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 3,
+          "rang": 4,
           "nom": "CrackedTO",
           "valeur": 4076,
           "plateforme": "java"
         },
         {
-          "rang": 4,
+          "rang": 5,
           "nom": "Diabomax59",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/74e33d489bab4e8fa47067035702ec30/64"
         },
         {
-          "rang": 5,
+          "rang": 6,
           "nom": "Maklishh",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/23996c89b1fb4e8eaf89ca080d128327/64"
         },
         {
-          "rang": 6,
+          "rang": 7,
           "nom": "TomGamingTV",
           "valeur": 4076,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         },
         {
-          "rang": 7,
+          "rang": 8,
           "nom": "nyxAngelSw3et",
           "valeur": 1396,
           "plateforme": "java",
@@ -364,8 +378,8 @@
         {
           "rang": 4,
           "nom": "Max3nce2",
-          "valeur": 128,
-          "niveau": 2,
+          "valeur": 313,
+          "niveau": 3,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -493,8 +507,8 @@
         {
           "rang": 5,
           "nom": "Max3nce2",
-          "valeur": 769,
-          "niveau": 10,
+          "valeur": 954,
+          "niveau": 11,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -840,7 +854,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 770340,
+          "valeur": 770940,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
