@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-07T22:53:35.646885832+02:00",
-  "genere_ts": 1791406415646,
+  "genere_le": "2026-10-07T22:59:22.018743375+02:00",
+  "genere_ts": 1791406762018,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 1,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
@@ -28,7 +28,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 11998.0,
+          "valeur": 12044.0,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -72,7 +72,7 @@
         {
           "rang": 1,
           "nom": ".maxencemagnier",
-          "valeur": 13715,
+          "valeur": 13761,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -150,7 +150,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 12929.0,
+          "valeur": 12975.0,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -539,7 +539,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 1084952523,
+          "valeur": 1084952575,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -854,7 +854,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 770940,
+          "valeur": 771240,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -1305,7 +1305,7 @@
   "stats": {
     "iles": 9,
     "joueurs_avec_metier": 7,
-    "skycoins_en_circulation": 1097986960,
+    "skycoins_en_circulation": 1097987012,
     "votes_total": 3
   }
 }
