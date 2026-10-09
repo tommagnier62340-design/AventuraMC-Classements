@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-09T16:38:28.019769913+02:00",
-  "genere_ts": 1791556708019,
+  "genere_le": "2026-10-09T16:48:28.021043568+02:00",
+  "genere_ts": 1791557308021,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -771,6 +771,13 @@
           "nom": "Linvily",
           "valeur": 7,
           "plateforme": "java"
+        },
+        {
+          "rang": 10,
+          "nom": ".Darkkiller14787",
+          "valeur": 2,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
         }
       ]
     },
@@ -784,7 +791,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 855360,
+          "valeur": 855960,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
