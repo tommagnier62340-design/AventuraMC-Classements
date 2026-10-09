@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-09T19:01:23.312275389+02:00",
-  "genere_ts": 1791565283312,
+  "genere_le": "2026-10-09T19:07:34.324358613+02:00",
+  "genere_ts": 1791565654324,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -33,28 +33,7 @@
       "titre": "Classement journalier des îles",
       "description": "Gain de valeur depuis le dernier reset (minuit, Europe/Paris)",
       "unite": "valeur",
-      "entrees": [
-        {
-          "rang": 1,
-          "nom": ".Darkkiller14787",
-          "valeur": 833.0,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
-        },
-        {
-          "rang": 2,
-          "nom": "TomGamingTV",
-          "valeur": 11.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
-        },
-        {
-          "rang": 3,
-          "nom": "CrackedTO",
-          "valeur": 5.0,
-          "plateforme": "java"
-        }
-      ]
+      "entrees": []
     },
     {
       "id": "skyblock_iles_mois",
@@ -62,56 +41,7 @@
       "titre": "Classement mensuel des îles",
       "description": "Gain de valeur depuis le début du mois",
       "unite": "valeur",
-      "entrees": [
-        {
-          "rang": 1,
-          "nom": ".maxencemagnier",
-          "valeur": 10455.0,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
-        },
-        {
-          "rang": 2,
-          "nom": "TomGamingTV",
-          "valeur": 4087.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
-        },
-        {
-          "rang": 3,
-          "nom": "CrackedTO",
-          "valeur": 4081.0,
-          "plateforme": "java"
-        },
-        {
-          "rang": 4,
-          "nom": "Maklishh",
-          "valeur": 4076.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/23996c89b1fb4e8eaf89ca080d128327/64"
-        },
-        {
-          "rang": 5,
-          "nom": "thibaudxp5",
-          "valeur": 3215.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
-        },
-        {
-          "rang": 6,
-          "nom": "nyxAngelSw3et",
-          "valeur": 1396.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
-        },
-        {
-          "rang": 7,
-          "nom": "Diabomax59",
-          "valeur": 1206.0,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/74e33d489bab4e8fa47067035702ec30/64"
-        }
-      ]
+      "entrees": []
     },
     {
       "id": "skyblock_metier_mineur",
@@ -740,7 +670,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 863700,
+          "valeur": 864000,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
