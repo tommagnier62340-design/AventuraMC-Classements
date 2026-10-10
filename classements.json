@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-10T13:45:14.779011168+02:00",
-  "genere_ts": 1791632714779,
+  "genere_le": "2026-10-10T13:55:14.779571545+02:00",
+  "genere_ts": 1791633314779,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 3,
+    "joueurs_en_ligne": 1,
     "joueurs_max": 50
   },
   "classements": [
@@ -85,7 +85,7 @@
         {
           "rang": 5,
           "nom": ".Darkkiller14787",
-          "valeur": 166,
+          "valeur": 184,
           "niveau": 2,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
@@ -361,7 +361,7 @@
         {
           "rang": 6,
           "nom": ".Darkkiller14787",
-          "valeur": 668,
+          "valeur": 686,
           "niveau": 8,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
@@ -670,7 +670,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 919860,
+          "valeur": 920460,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
