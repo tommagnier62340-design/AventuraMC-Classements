@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-10T21:49:07.38010415+02:00",
-  "genere_ts": 1791661747380,
+  "genere_le": "2026-10-10T22:03:07.011889864+02:00",
+  "genere_ts": 1791662587011,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 0,
+    "joueurs_en_ligne": 1,
     "joueurs_max": 50
   },
   "classements": [
@@ -251,6 +251,14 @@
           "valeur": 7,
           "niveau": 1,
           "plateforme": "java"
+        },
+        {
+          "rang": 8,
+          "nom": "TomGamingTV",
+          "valeur": 2,
+          "niveau": 1,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         }
       ]
     },
@@ -372,6 +380,14 @@
           "valeur": 7,
           "niveau": 5,
           "plateforme": "java"
+        },
+        {
+          "rang": 8,
+          "nom": "TomGamingTV",
+          "valeur": 2,
+          "niveau": 5,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
         }
       ]
     },
@@ -1110,7 +1126,7 @@
   },
   "stats": {
     "iles": 10,
-    "joueurs_avec_metier": 7,
+    "joueurs_avec_metier": 8,
     "skycoins_en_circulation": 1097959496,
     "votes_total": 3
   }
