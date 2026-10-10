@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-10T12:13:14.783810207+02:00",
-  "genere_ts": 1791627194783,
+  "genere_le": "2026-10-10T12:24:14.777306399+02:00",
+  "genere_ts": 1791627854777,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -491,19 +491,12 @@
         },
         {
           "rang": 7,
-          "nom": ".Darkkiller14787",
-          "valeur": 0.1,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
-        },
-        {
-          "rang": 8,
           "nom": "CrackedTO",
           "valeur": 0.1,
           "plateforme": "java"
         },
         {
-          "rang": 9,
+          "rang": 8,
           "nom": "Maklishh",
           "valeur": 0.1,
           "plateforme": "java",
@@ -677,7 +670,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 914340,
+          "valeur": 915000,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
