@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-11T23:26:50.236397789+02:00",
-  "genere_ts": 1791754010236,
+  "genere_le": "2026-10-12T00:00:49.815357248+02:00",
+  "genere_ts": 1791756049815,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 0,
+    "joueurs_en_ligne": 1,
     "joueurs_max": 50
   },
   "classements": [
@@ -968,22 +968,7 @@
       "titre": "Votes de la semaine",
       "description": "Votes validés cette semaine (remise à zéro le lundi à minuit)",
       "unite": "votes",
-      "entrees": [
-        {
-          "rang": 1,
-          "nom": "Max3nce2",
-          "valeur": 2,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
-        },
-        {
-          "rang": 2,
-          "nom": "TomGamingTV",
-          "valeur": 1,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
-        }
-      ]
+      "entrees": []
     },
     {
       "id": "votes_mois",
@@ -1029,10 +1014,6 @@
     "depuis": "2026-10-07",
     "aujourdhui": 0,
     "par_jour": [
-      {
-        "date": "2026-09-12",
-        "votes": 0
-      },
       {
         "date": "2026-09-13",
         "votes": 0
@@ -1147,6 +1128,10 @@
       },
       {
         "date": "2026-10-11",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-12",
         "votes": 0
       }
     ]
