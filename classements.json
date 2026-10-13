@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-13T09:46:06.278171528+02:00",
-  "genere_ts": 1791877566278,
+  "genere_le": "2026-10-13T09:56:06.278102198+02:00",
+  "genere_ts": 1791878166278,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -694,7 +694,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 966660,
+          "valeur": 967260,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
