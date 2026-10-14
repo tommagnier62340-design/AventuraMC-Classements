@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-14T17:28:43.905196396+02:00",
-  "genere_ts": 1791991723905,
+  "genere_le": "2026-10-14T17:36:02.625267076+02:00",
+  "genere_ts": 1791992162625,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -76,6 +76,14 @@
         },
         {
           "rang": 4,
+          "nom": "Max3nce2",
+          "valeur": 868,
+          "niveau": 5,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 5,
           "nom": ".maxencemagnier",
           "valeur": 412,
           "niveau": 3,
@@ -83,20 +91,12 @@
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
         {
-          "rang": 5,
+          "rang": 6,
           "nom": ".Darkkiller14787",
           "valeur": 184,
           "niveau": 2,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/fabb2cf0be269d50a382a0cd8c06041f2c48315aefd6e15b627f7a7e315d2702/64"
-        },
-        {
-          "rang": 6,
-          "nom": "Max3nce2",
-          "valeur": 80,
-          "niveau": 1,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         }
       ]
     },
@@ -369,8 +369,8 @@
         {
           "rang": 5,
           "nom": "Max3nce2",
-          "valeur": 1463,
-          "niveau": 11,
+          "valeur": 2251,
+          "niveau": 15,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -651,7 +651,7 @@
         {
           "rang": 5,
           "nom": "Max3nce2",
-          "valeur": 30,
+          "valeur": 31,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -694,7 +694,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 1053720,
+          "valeur": 1054020,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -779,17 +779,17 @@
         },
         {
           "rang": 2,
+          "nom": "Max3nce2",
+          "valeur": 17,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 3,
           "nom": ".TiTiattias",
           "valeur": 12,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/923d2e290b95585d5b1db7a2b4b67fadaa3be0a0d540c3cd87e89441015f3d6c/64"
-        },
-        {
-          "rang": 3,
-          "nom": "Max3nce2",
-          "valeur": 12,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
         {
           "rang": 4,
