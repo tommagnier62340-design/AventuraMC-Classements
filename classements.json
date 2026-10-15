@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-16T01:38:59.274388384+02:00",
-  "genere_ts": 1792107539274,
+  "genere_le": "2026-10-16T01:46:13.038636861+02:00",
+  "genere_ts": 1792107973038,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 1,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
@@ -701,7 +701,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 1082340,
+          "valeur": 1082700,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
