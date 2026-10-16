@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-16T18:27:19.9228215+02:00",
-  "genere_ts": 1792168039922,
+  "genere_le": "2026-10-16T19:27:19.927944498+02:00",
+  "genere_ts": 1792171639927,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 1,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
