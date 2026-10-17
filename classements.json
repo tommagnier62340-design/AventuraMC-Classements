@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-17T05:04:10.320111711+02:00",
-  "genere_ts": 1792206250320,
+  "genere_le": "2026-10-17T05:15:10.109854344+02:00",
+  "genere_ts": 1792206910109,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 0,
+    "joueurs_en_ligne": 1,
     "joueurs_max": 50
   },
   "classements": [
@@ -296,8 +296,8 @@
         {
           "rang": 3,
           "nom": "Max3nce2",
-          "valeur": 901,
-          "niveau": 5,
+          "valeur": 1046,
+          "niveau": 6,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -361,8 +361,8 @@
         {
           "rang": 4,
           "nom": "Max3nce2",
-          "valeur": 7033,
-          "niveau": 27,
+          "valeur": 7178,
+          "niveau": 28,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -409,7 +409,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 72846789,
+          "valeur": 72846829,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -701,7 +701,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 1098420,
+          "valeur": 1098840,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
@@ -1174,7 +1174,7 @@
   "stats": {
     "iles": 10,
     "joueurs_avec_metier": 8,
-    "skycoins_en_circulation": 85971759,
+    "skycoins_en_circulation": 85971799,
     "votes_total": 4
   }
 }
