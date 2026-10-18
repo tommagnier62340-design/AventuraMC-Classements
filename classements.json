@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-18T07:38:02.677013263+02:00",
-  "genere_ts": 1792301882677,
+  "genere_le": "2026-10-18T07:48:02.675282536+02:00",
+  "genere_ts": 1792302482675,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -729,7 +729,7 @@
         {
           "rang": 5,
           "nom": "nyxAngelSw3et",
-          "valeur": 36900,
+          "valeur": 37500,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
@@ -780,7 +780,7 @@
         {
           "rang": 1,
           "nom": "nyxAngelSw3et",
-          "valeur": 21,
+          "valeur": 23,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
@@ -831,7 +831,7 @@
         {
           "rang": 1,
           "nom": "nyxAngelSw3et",
-          "valeur": 564,
+          "valeur": 580,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
