@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-18T16:46:34.139141174+02:00",
-  "genere_ts": 1792334794139,
+  "genere_le": "2026-10-18T16:51:50.549452895+02:00",
+  "genere_ts": 1792335110549,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 2,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
@@ -296,7 +296,7 @@
         {
           "rang": 3,
           "nom": "Max3nce2",
-          "valeur": 1251,
+          "valeur": 1326,
           "niveau": 7,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
@@ -361,7 +361,7 @@
         {
           "rang": 4,
           "nom": "Max3nce2",
-          "valeur": 7383,
+          "valeur": 7458,
           "niveau": 29,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
@@ -643,24 +643,24 @@
         },
         {
           "rang": 3,
+          "nom": "Max3nce2",
+          "valeur": 37,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
+        },
+        {
+          "rang": 4,
           "nom": "thibaudxp5",
           "valeur": 34,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 4,
+          "rang": 5,
           "nom": "qui1raph",
           "valeur": 32,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/cbfa0a54f3474126acfa15d8ca018c58/64"
-        },
-        {
-          "rang": 5,
-          "nom": "Max3nce2",
-          "valeur": 23,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
         {
           "rang": 6,
@@ -701,7 +701,7 @@
         {
           "rang": 1,
           "nom": "Max3nce2",
-          "valeur": 1126260,
+          "valeur": 1126500,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
