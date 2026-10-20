@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-20T11:59:33.785032313+02:00",
-  "genere_ts": 1792490373785,
+  "genere_le": "2026-10-20T12:05:51.993805501+02:00",
+  "genere_ts": 1792490751993,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 1,
+    "joueurs_en_ligne": 0,
     "joueurs_max": 50
   },
   "classements": [
@@ -700,17 +700,17 @@
         },
         {
           "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 105480,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 3,
           "nom": ".TiTiattias",
           "valeur": 105420,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/923d2e290b95585d5b1db7a2b4b67fadaa3be0a0d540c3cd87e89441015f3d6c/64"
-        },
-        {
-          "rang": 3,
-          "nom": ".maxencemagnier",
-          "valeur": 105240,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
         {
           "rang": 4,
