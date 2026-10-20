@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-20T23:39:16.709783669+02:00",
-  "genere_ts": 1792532356709,
+  "genere_le": "2026-10-20T23:49:16.721950553+02:00",
+  "genere_ts": 1792532956721,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -416,7 +416,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 16274389,
+          "valeur": 16174389,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -708,7 +708,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 131100,
+          "valeur": 131700,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -1166,7 +1166,7 @@
   "stats": {
     "iles": 10,
     "joueurs_avec_metier": 8,
-    "skycoins_en_circulation": 101084256,
+    "skycoins_en_circulation": 100984256,
     "votes_total": 4
   }
 }
