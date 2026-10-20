@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-20T11:23:30.360672885+02:00",
-  "genere_ts": 1792488210360,
+  "genere_le": "2026-10-20T11:33:30.366617511+02:00",
+  "genere_ts": 1792488810366,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -415,17 +415,17 @@
         },
         {
           "rang": 2,
+          "nom": ".maxencemagnier",
+          "valeur": 16273200,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 3,
           "nom": "TomGamingTV",
           "valeur": 11722320,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6c882e8ee43f47f497d9f7cf3ddb99ee/64"
-        },
-        {
-          "rang": 3,
-          "nom": ".maxencemagnier",
-          "valeur": 1161932,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
         {
           "rang": 4,
@@ -708,7 +708,7 @@
         {
           "rang": 3,
           "nom": ".maxencemagnier",
-          "valeur": 104040,
+          "valeur": 104640,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -1159,7 +1159,7 @@
   "stats": {
     "iles": 10,
     "joueurs_avec_metier": 8,
-    "skycoins_en_circulation": 85971799,
+    "skycoins_en_circulation": 101083067,
     "votes_total": 4
   }
 }
