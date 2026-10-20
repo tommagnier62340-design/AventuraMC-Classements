@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "genere_le": "2026-10-20T18:53:03.334249103+02:00",
-  "genere_ts": 1792515183334,
+  "genere_le": "2026-10-20T19:27:03.337381136+02:00",
+  "genere_ts": 1792517223337,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
     "ip_bedrock": "aventura-mc.mineon.fr",
     "port_bedrock": 49868,
-    "joueurs_en_ligne": 0,
+    "joueurs_en_ligne": 1,
     "joueurs_max": 50
   },
   "classements": [
@@ -629,54 +629,61 @@
       "entrees": [
         {
           "rang": 1,
+          "nom": "nyxAngelSw3et",
+          "valeur": 102,
+          "plateforme": "java",
+          "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
+        },
+        {
+          "rang": 2,
           "nom": ".TiTiattias",
           "valeur": 74,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/923d2e290b95585d5b1db7a2b4b67fadaa3be0a0d540c3cd87e89441015f3d6c/64"
         },
         {
-          "rang": 2,
+          "rang": 3,
           "nom": "Max3nce2",
           "valeur": 37,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
         {
-          "rang": 3,
+          "rang": 4,
           "nom": "thibaudxp5",
           "valeur": 34,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 4,
+          "rang": 5,
           "nom": "qui1raph",
           "valeur": 32,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/cbfa0a54f3474126acfa15d8ca018c58/64"
         },
         {
-          "rang": 5,
+          "rang": 6,
           "nom": ".maxencemagnier",
           "valeur": 9,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
         {
-          "rang": 6,
+          "rang": 7,
           "nom": "Hades6034",
           "valeur": 7,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/252d678e573f4a349fd1fa6334a32286/64"
         },
         {
-          "rang": 7,
+          "rang": 8,
           "nom": "Linvily",
           "valeur": 7,
           "plateforme": "java"
         },
         {
-          "rang": 8,
+          "rang": 9,
           "nom": ".Darkkiller14787",
           "valeur": 2,
           "plateforme": "bedrock",
@@ -722,7 +729,7 @@
         {
           "rang": 5,
           "nom": "nyxAngelSw3et",
-          "valeur": 37860,
+          "valeur": 37920,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
