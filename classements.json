@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-20T13:39:31.644262123+02:00",
-  "genere_ts": 1792496371644,
+  "genere_le": "2026-10-20T13:50:31.642016226+02:00",
+  "genere_ts": 1792497031642,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -312,7 +312,7 @@
         {
           "rang": 5,
           "nom": ".maxencemagnier",
-          "valeur": 85,
+          "valeur": 145,
           "niveau": 1,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
@@ -377,7 +377,7 @@
         {
           "rang": 6,
           "nom": ".maxencemagnier",
-          "valeur": 2510,
+          "valeur": 2570,
           "niveau": 16,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
@@ -416,7 +416,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 16273470,
+          "valeur": 16273889,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -657,19 +657,26 @@
         },
         {
           "rang": 5,
+          "nom": ".maxencemagnier",
+          "valeur": 9,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 6,
           "nom": "Hades6034",
           "valeur": 7,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/252d678e573f4a349fd1fa6334a32286/64"
         },
         {
-          "rang": 6,
+          "rang": 7,
           "nom": "Linvily",
           "valeur": 7,
           "plateforme": "java"
         },
         {
-          "rang": 7,
+          "rang": 8,
           "nom": ".Darkkiller14787",
           "valeur": 2,
           "plateforme": "bedrock",
@@ -694,7 +701,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 107040,
+          "valeur": 107700,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
@@ -1152,7 +1159,7 @@
   "stats": {
     "iles": 10,
     "joueurs_avec_metier": 8,
-    "skycoins_en_circulation": 101083337,
+    "skycoins_en_circulation": 101083756,
     "votes_total": 4
   }
 }
