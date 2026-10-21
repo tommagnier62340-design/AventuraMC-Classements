@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-21T19:50:50.59398324+02:00",
-  "genere_ts": 1792605050593,
+  "genere_le": "2026-10-21T20:00:50.593727448+02:00",
+  "genere_ts": 1792605650593,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -686,7 +686,7 @@
         {
           "rang": 2,
           "nom": ".maxencemagnier",
-          "valeur": 149580,
+          "valeur": 150180,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
