@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-23T15:07:50.590396148+02:00",
-  "genere_ts": 1792760870590,
+  "genere_le": "2026-10-23T15:32:50.590430619+02:00",
+  "genere_ts": 1792762370590,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -527,10 +527,10 @@
         },
         {
           "rang": 10,
-          "nom": "Maklishh",
+          "nom": "HoloGrafist16",
           "valeur": 0.1,
           "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/23996c89b1fb4e8eaf89ca080d128327/64"
+          "avatar": "https://mc-heads.net/avatar/37f3962c79f042618514dea5ffb9a27b/64"
         }
       ]
     },
