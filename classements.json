@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-23T04:08:50.594487765+02:00",
-  "genere_ts": 1792721330594,
+  "genere_le": "2026-10-23T05:07:50.59968105+02:00",
+  "genere_ts": 1792724870599,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -507,17 +507,17 @@
         },
         {
           "rang": 7,
+          "nom": ".maxencemagnier",
+          "valeur": 0.2,
+          "plateforme": "bedrock",
+          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
+        },
+        {
+          "rang": 8,
           "nom": "thibaudxp5",
           "valeur": 0.2,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
-        },
-        {
-          "rang": 8,
-          "nom": ".maxencemagnier",
-          "valeur": 0.1,
-          "plateforme": "bedrock",
-          "avatar": "https://mc-heads.net/avatar/4c05ab9e07b3505dc3ec11370c3bdce5570ad2fb2b562e9b9dd9cf271f81aa44/64"
         },
         {
           "rang": 9,
