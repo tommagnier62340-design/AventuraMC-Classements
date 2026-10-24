@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-24T11:00:50.600106559+02:00",
-  "genere_ts": 1792832450600,
+  "genere_le": "2026-10-24T11:10:50.60118837+02:00",
+  "genere_ts": 1792833050601,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -621,54 +621,47 @@
       "entrees": [
         {
           "rang": 1,
-          "nom": "nyxAngelSw3et",
-          "valeur": 102,
-          "plateforme": "java",
-          "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
-        },
-        {
-          "rang": 2,
           "nom": ".TiTiattias",
           "valeur": 74,
           "plateforme": "bedrock",
           "avatar": "https://mc-heads.net/avatar/923d2e290b95585d5b1db7a2b4b67fadaa3be0a0d540c3cd87e89441015f3d6c/64"
         },
         {
-          "rang": 3,
+          "rang": 2,
           "nom": "Max3nce2",
           "valeur": 37,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/6711d041b7df447abfa67bafa22d84da/64"
         },
         {
-          "rang": 4,
+          "rang": 3,
           "nom": "thibaudxp5",
           "valeur": 34,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/d8ed24c054c54a1bac37814d32eeaba2/64"
         },
         {
-          "rang": 5,
+          "rang": 4,
           "nom": "qui1raph",
           "valeur": 32,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/cbfa0a54f3474126acfa15d8ca018c58/64"
         },
         {
-          "rang": 6,
+          "rang": 5,
           "nom": "Hades6034",
           "valeur": 7,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/252d678e573f4a349fd1fa6334a32286/64"
         },
         {
-          "rang": 7,
+          "rang": 6,
           "nom": "Linvily",
           "valeur": 7,
           "plateforme": "java"
         },
         {
-          "rang": 8,
+          "rang": 7,
           "nom": ".Darkkiller14787",
           "valeur": 2,
           "plateforme": "bedrock",
@@ -714,7 +707,7 @@
         {
           "rang": 5,
           "nom": "nyxAngelSw3et",
-          "valeur": 37920,
+          "valeur": 37980,
           "plateforme": "java",
           "avatar": "https://mc-heads.net/avatar/81aff13513bd41ea81a30ec1ed3b552b/64"
         },
