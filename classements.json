@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "genere_le": "2026-10-25T23:00:50.599591094+01:00",
-  "genere_ts": 1792965650599,
+  "genere_le": "2026-10-26T00:00:50.591949437+01:00",
+  "genere_ts": 1792969250591,
   "serveur": {
     "nom": "Aventura MC",
     "ip_java": "aventura-mc.mineon.fr",
@@ -1015,10 +1015,6 @@
     "aujourdhui": 0,
     "par_jour": [
       {
-        "date": "2026-09-26",
-        "votes": 0
-      },
-      {
         "date": "2026-09-27",
         "votes": 0
       },
@@ -1132,6 +1128,10 @@
       },
       {
         "date": "2026-10-25",
+        "votes": 0
+      },
+      {
+        "date": "2026-10-26",
         "votes": 0
       }
     ]
